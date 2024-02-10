@@ -3,6 +3,7 @@
     {
       "name": "windows-gcc-x64",
       "includePath": [
+          "/usr/include",
         "${workspaceFolder}/**"
       ],
       "compilerPath": "gcc",
