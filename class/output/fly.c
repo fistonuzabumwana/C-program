@@ -1,12 +1,12 @@
 //welcome to my 1st c program
 #include<stdio.h>
-void main ()
+main ()
 {
-    printf("Hello class!\n");
-    printf("\tHello class!");
+    //printf("Hello class!\n");
+    //printf("\tHello class!");
     //getchar();
     //printf("*\n*\t*\n*\t*\t*\n*\t*\t*\t*");
     printf("*\t\t\t\t*\n*\t*\t\t*\t*\n*\t*\t*\t*\t*\n*\t*\t\t*\t*\n*\t\t\t\t*");
     getchar();
-    return;
+    //return;
 }
